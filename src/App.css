@@ -26,7 +26,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url(../public/img/background/header.png);
+  background-image: url(../public/img/fondo1.png);
   color: var(--rm-blue);
   padding: 2rem;
   min-height: 100vh;
